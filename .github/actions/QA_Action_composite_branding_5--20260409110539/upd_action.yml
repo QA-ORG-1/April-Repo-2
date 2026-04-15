@@ -1,4 +1,4 @@
-name: 'QA_Action_composite_branding_5'
+
 description: 'Composite action with branding metadata'
 inputs:
   target:
